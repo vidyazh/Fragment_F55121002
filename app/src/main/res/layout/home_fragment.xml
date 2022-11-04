@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description About Me!"
+        android:layout_marginTop="-50pt"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="18dp"
+        android:text="My name is Vidya Az Zahra. I am a college student at Tadulako University. I am 19 years old, and i am the oldest child in my family. Well, basically, i am not a talkative person when i meet new people, but i love meeting new people. I am more conversational with my closest people i care about nature, like climate change, limiting water, cutting energy use, using less paper, producing less waste. i like watching movies, especially from Disney, and my famous actor is Timothee Chalamet. I have always wanted to go to Disneyland, i wish i cango there someday. "
+        android:layout_marginTop="10pt"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+</LinearLayout>
